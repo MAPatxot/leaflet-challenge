@@ -1,6 +1,6 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
-## Deployment Link: https://mapatxot.github.io/leaflet-challenge/
+Deployment Link: https://mapatxot.github.io/leaflet-challenge/
 
 # Background
 
