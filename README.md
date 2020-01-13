@@ -15,3 +15,6 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Satellite Map + Zoomed Out View - Magnitude 2~3 Exmaple
 ![header image](https://github.com/MAPatxot/leaflet-challenge/blob/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%205.03.41%20PM.png)
+
+## Light Map + Zoomed Out View - Magnitude 5+ Exmaple
+![header image](https://raw.githubusercontent.com/MAPatxot/leaflet-challenge/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%205.10.07%20PM.png)
