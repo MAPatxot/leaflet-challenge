@@ -21,5 +21,5 @@
 ![header image](https://raw.githubusercontent.com/MAPatxot/leaflet-challenge/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%205.10.07%20PM.png)
 
 Notes for Future Improvements:
-* Find a way to add the Techtonic Plates
+* Find a way to add the "Tectonic Plates"
 * Add Animations
