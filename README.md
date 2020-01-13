@@ -8,18 +8,18 @@
 
 * The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations on issues facing our planet.
 
-## Dark Map View - Magnitude 4~5 Exmaple
-![header image](https://raw.githubusercontent.com/MAPatxot/leaflet-challenge/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%204.53.46%20PM.png)
-
 ## Outdoors Map View - Magnitude 1~2 Exmaple
 ![header image](https://raw.githubusercontent.com/MAPatxot/leaflet-challenge/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%204.59.06%20PM.png)
 
 ## Satellite Map + Zoomed Out View - Magnitude 2~3 Exmaple
 ![header image](https://github.com/MAPatxot/leaflet-challenge/blob/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%205.03.41%20PM.png)
 
+## Dark Map View - Magnitude 4~5 Exmaple
+![header image](https://raw.githubusercontent.com/MAPatxot/leaflet-challenge/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%204.53.46%20PM.png)
+
 ## Light Map + Zoomed Out View - Magnitude 5+ Exmaple
 ![header image](https://raw.githubusercontent.com/MAPatxot/leaflet-challenge/master/Leaflets%20Screenshots/Screen%20Shot%202020-01-13%20at%205.10.07%20PM.png)
 
 Notes for Future Improvements:
 * Find a way to add the "Tectonic Plates"
-* Add Animations
+* Adding Animations
